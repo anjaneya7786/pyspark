@@ -1,0 +1,9 @@
+{
+	"name": "hcrm",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a6b39b12-db61-4c2b-bc1e-0f4d9f6fc271",
+		"tenantId": "99bb2c19-2cd3-4606-a71e-6e5f5900af15"
+	}
+}
